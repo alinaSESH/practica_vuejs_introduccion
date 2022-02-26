@@ -9,8 +9,9 @@
   "license": "GPL-3.0",
   "author": "Pedro Prieto",
   "devDependencies": {
-    "chromedriver": "^96.0.0",
-    "nightwatch": "^1.7.13",
+    "chromedriver": "^98.0.0",
+    "geckodriver": "^3.0.1",
+    "nightwatch": "^2.0.7",
     "serve-handler": "^6.1.3"
   }
 }
